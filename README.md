@@ -42,12 +42,6 @@ The calculator features a user interface with buttons for digits, arithmetic ope
 
 - **Main Execution**: Initializes the `tkinter` root window and the `Calculator` class. Starts the main event loop to keep the application running.
 
-```python
-root = tk.Tk()
-calculator = Calculator(root)
-root.mainloop()
-```
-
 ## Usage
 
 - **Digit Buttons**: Click the buttons with digits (0-9) to input numbers.

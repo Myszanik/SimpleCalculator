@@ -25,22 +25,22 @@ The calculator features a user interface with buttons for digits, arithmetic ope
 
 1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/Myszanik/BasicCalculator.git
 2. **Navigate to the Project Directory:**:
    ```bash
-   cd simple-calculator
+   cd BasicCalculator
 3. **Run the Calculator Script**:
    ```bash
-   python3 calculator.py
+  python calculator.py
 
 ## Code Explanation
 
 - **`Calculator` Class**: Contains the main logic for the calculator GUI.
-  - **`__init__(self, master)`**: Initializes the GUI components including the entry field and buttons.
+  - **`__init__(self, master)`**: Initialises the GUI components including the entry field and buttons.
   - **`create_button(self, text, row, column)`**: Creates a button with specified text and places it in the grid layout.
   - **`button_click(self, text)`**: Handles button clicks for digits, operations, and special functions.
 
-- **Main Execution**: Initializes the `tkinter` root window and the `Calculator` class. Starts the main event loop to keep the application running.
+- **Main Execution**: Initialises the `tkinter` root window and the `Calculator` class. Starts the main event loop to keep the application running.
 
 ## Usage
 

@@ -25,13 +25,13 @@ The calculator features a user interface with buttons for digits, arithmetic ope
 
 1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/Myszanik/BasicCalculator.git
+   git clone https://github.com/Myszanik/SimpleCalculator.git
 2. **Navigate to the Project Directory:**:
    ```bash
    cd BasicCalculator
 3. **Run the Calculator Script**:
    ```bash
-  python calculator.py
+   python calculator.py
 
 ## Code Explanation
 

@@ -28,7 +28,7 @@ The calculator features a user interface with buttons for digits, arithmetic ope
    git clone https://github.com/Myszanik/SimpleCalculator.git
 2. **Navigate to the Project Directory:**:
    ```bash
-   cd BasicCalculator
+   cd SimpleCalculator
 3. **Run the Calculator Script**:
    ```bash
    python calculator.py

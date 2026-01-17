@@ -21,16 +21,16 @@ The calculator features a user interface with buttons for digits, arithmetic ope
 - Python 3.x
 - `tkinter` (usually comes pre-installed with Python)
 
-## How to Run
+## Setup (Windows, PowerShell)
 
 1. **Clone this Repository**:
-   ```bash
+   ```powershell
    git clone https://github.com/Myszanik/SimpleCalculator.git
 2. **Navigate to the Project Directory:**:
-   ```bash
+   ```powershell
    cd SimpleCalculator
 3. **Run the Calculator Script**:
-   ```bash
+   ```powershell
    python calculator.py
 
 ## Code Explanation
